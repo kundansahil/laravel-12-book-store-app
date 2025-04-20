@@ -2,6 +2,7 @@
 <a href="https://your-live-link.com" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Preview-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Preview" style="height:50px;">
 </a>
+---
 ## 📚 Laravel Book Store Web App
 
 A modern and responsive web-based Book Store built with Laravel. This application allows users to browse, search, and manage books with ease. Ideal for small libraries, book businesses, or educational purposes.
