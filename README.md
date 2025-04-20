@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# laravel-book-store-website
+An online book store web app offering a seamless experience for browsing, purchasing, and managing books. Features include secure authentication, advanced search, shopping cart, and an admin dashboard. Built with modern web technologies like laravel-12 and bootstrap-5 for a user-friendly, responsive platform.
+>>>>>>> 5acc5dbbb93e2937f1c8edf7c05e5601b57201e7
